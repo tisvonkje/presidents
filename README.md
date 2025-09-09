@@ -21,5 +21,6 @@ The server will be visible on port 3306. Use your favorite mysql client to conne
 mysql -h 127.0.0.1 -u presidents -p
 ```
 Make sure you specify the host as ```127.0.0.1``` and not as ```localhost``` which causes mysql to try to use a socket.
-The database name is ```presidents```. Table names are lowercase, column names are case insensitive.
+The database name is ```presidents```. Table names are lowercase, column names are case insensitive. Both the username as well as the
+password is ```presidents```. The mysql root user has password ```my-secret```.
 Have fun!
