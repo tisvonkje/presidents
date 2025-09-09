@@ -1,6 +1,6 @@
 # Presidents
 ------------
-This repository contains a docker file to create a MySQL database with information about the Presidents of the United States. The database includes figures about States, Hobbies and Spouses, ideal to learn how to formulate simple and complex SQL queries. A learning document with exercises (in PDF) is provides as well.
+This repository contains a docker file to create a MySQL database with information about the Presidents of the United States. The database includes figures about States, Hobbies and Spouses, ideal to learn how to formulate simple and complex SQL queries. A learning document with exercises (in PDF) is provided as well.
 
 # Building
 ----------
